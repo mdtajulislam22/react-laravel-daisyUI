@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## How to install
+- clone the repo (git clone https://github.com/mdtajulislam22/react-laravel-daisyUI.git)
+- Rename the file
+- (composer install)
+- (npm install)
+- copy env example and create new env file
+- generate new app key (php artisan key:generate)
+- (composer run dev) now you are ready to go
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
